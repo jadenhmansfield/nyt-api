@@ -1,0 +1,15 @@
+*{
+    background-image: url('https://img.freepik.com/free-vector/unfocussed-winter-background-with-snowflakes_1393-271.jpg?w=1800&t=st=1668576619~exp=1668577219~hmac=8bcde5c151141ec650e1275a5f63111ce2b0190775acf5d3504ac157cd447859');
+}
+
+h1{
+    color:red;
+    text-align: center;
+}
+
+.nytMovieReviews{
+    text-align:center;
+    color: green;
+    background-color: transparent;
+    border-color: transparent;
+}
